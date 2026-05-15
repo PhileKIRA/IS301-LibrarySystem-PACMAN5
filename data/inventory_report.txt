@@ -1,1 +1,43 @@
+LIBRARY INVENTORY REPORT
+========================================
 
+BookID: 001
+Title: Programming Fundamentals
+Author: John Doe
+Genre: Technology
+Year Published: 2015
+Quantity: 11
+Availability Status: Available
+----------------------------
+BookID: 002
+Title: Structured Programming in C
+Author: Jane Smith
+Genre: Computer Science
+Year Published: 2020
+Quantity: 7
+Availability Status: Available
+----------------------------
+BookID: 003
+Title: Database Systems
+Author: Michael Brown
+Genre: Information Systems
+Year Published: 2019
+Quantity: 5
+Availability Status: Available
+----------------------------
+BookID: 004
+Title: Web Application Development
+Author: Sarah Lee
+Genre: Technology
+Year Published: 2021
+Quantity: 4
+Availability Status: Available
+----------------------------
+BookID: 005
+Title: Christian Leadership
+Author: Peter Kila
+Genre: Leadership
+Year Published: 2018
+Quantity: 6
+Availability Status: Available
+----------------------------
