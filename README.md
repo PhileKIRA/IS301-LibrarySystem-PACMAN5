@@ -5,9 +5,9 @@ This repository is for IS301 Major Projects Submission
 
 
 User Manual - Library Management System
-Login Information
-Username: admin
-Password: admin123
+##Login Information
+##Username: admin
+##Password: admin123
 How to Run
 Download or locate the file (.exe) click to run it:
 
